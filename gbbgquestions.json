@@ -1,0 +1,1210 @@
+{
+    "brawlstarsQuestions": [
+      {
+        "id": 1,
+        "question": "Which Brawler uses the Rocket Launcher?",
+        "options": ["A. Shelly", "B. Colt", "C. Brock", "D. Jessie"],
+        "correct": "C"
+      },
+      {
+        "id": 2,
+        "question": "Which Brawler heals teammates with a super?",
+        "options": ["A. Poco", "B. Barley", "C. Rosa", "D. Bull"],
+        "correct": "A"
+      },
+      {
+        "id": 3,
+        "question": "Which Brawler uses a sniper rifle?",
+        "options": ["A. Piper", "B. Nita", "C. El Primo", "D. Mortis"],
+        "correct": "A"
+      },
+      {
+        "id": 4,
+        "question": "Which Brawler places a healing turret?",
+        "options": ["A. Pam", "B. Jessie", "C. Penny", "D. Tick"],
+        "correct": "A"
+      },
+      {
+        "id": 5,
+        "question": "Which Brawler throws bottles of damage over walls?",
+        "options": ["A. Dynamike", "B. Barley", "C. Sprout", "D. Spike"],
+        "correct": "B"
+      },
+      {
+        "id": 6,
+        "question": "When was Brawl Stars released",
+          "options": ["A. 2017", "B. 2018", "C. 2016", "D. 2019"],
+         "correct": "A"
+      },
+        {
+            "id": 7,
+            "question": "Who is the starter brawler",
+            "options": ["A. Nita", "B. Colt", "C. Leon", "D. Shelly"],
+            "correct": "D"
+        },
+        {
+            "id": 8,
+             "question": "Which of these brawlers are a rare brawler?",
+            "options": ["A. Rico", "B. Bo", "C. Barley", "D. Tick"],
+             "correct": "C"
+        },
+        {
+            "id": 9,
+            "question": "Which of these brawlers released first?",
+             "options": ["A. Eve", "B. Chester", "C. Otis", "D. Janet"],
+             "correct": "A"
+         },
+        {
+            "id": 10,
+            "question": "Who lives in the Biodome environment?",
+             "options": ["A. Colt", "B. Byron", "C. Bea", "D. Sprout", "E. Rico", "F. Rosa"],
+             "correct": ["B", "C", "F"]
+          },
+         {
+            "id": 11,
+           "question": "Who says 'you made a big mistake'",
+            "options": ["A. Fang", "B. Colt", "C. Frank", "D. Leon", "E. Bibi", "F. Crow"],
+             "correct": "E"
+         },
+         {
+            "id": 12,
+           "question": "Who doesn't belong here?",
+             "options": ["A. Colt", "B. Bull", "C. Rosa", "D. Mortis"],
+            "correct": "D"
+         },
+         {
+           "id": 13,
+           "question": "Which of these brawlers have white hair?",
+            "options": ["A. Bull", "B. Byron", "C. Colt", "D. Lola"],
+           "correct": "B"
+        },
+        {
+           "id": 14,
+            "question": "Which brawler wears a mask?",
+             "options": ["A. Eve", "B. Janet", "C. Max", "D. Brock"],
+            "correct": "C"
+        },
+        {
+           "id": 15,
+            "question": "Which of these brawlers is NOT a robot",
+            "options": ["A. Lou", "B. Griff", "C. Carl", "D. Daryll"],
+             "correct": "B"
+         },
+        {
+            "id": 16,
+             "question": "Who has a super ranger skin?",
+            "options": ["A. Brock", "B. Max", "C. Buzz", "D. Ruffs"],
+             "correct": "A"
+        },
+        {
+            "id": 17,
+            "question": "Who didn't have a skin in season 25 and 24",
+            "options": ["A. Spike", "B. Fang", "C. Squeak", "D. Gene"],
+            "correct": "D"
+        },
+         {
+           "id": 18,
+           "question": "Which 2 of these brawlers have a bandage?",
+            "options": ["A. Shelly", "B. Fang", "C. Gus", "D. Byron"],
+            "correct": ["A", "C"]
+         },
+        {
+           "id": 19,
+           "question":"Which of these brawlers don't have a voice",
+           "options": ["A. Ash", "B. Lola", "C. Ruffs", "D. Daryll", "E. Melodie", "F. Gray"],
+            "correct": ["A", "D", "F"]
+        },
+        {
+            "id": 20,
+            "question": "Who dosen't belong here? Trio-wise",
+             "options": ["A. Frank", "B. Mortis", "C. Emz", "D. Poco"],
+            "correct": "D"
+        },
+       {
+            "id": 21,
+           "question":"Which brawler shows their socks",
+           "options": ["A. Colette", "B. Fang", "C. Buster", "D. Bull"],
+            "correct":"B"
+        },
+        {
+           "id": 22,
+            "question": "Who DOSEN'T have pink hair hear",
+            "options": ["A. Janet", "B. Melodie", "C. Lola", "D. Bonnie"],
+            "correct": "C"
+         },
+         {
+             "id": 23,
+            "question": "Who says 'failure builds character'",
+            "options": ["A. Colt", "B. Brock", "C. Stu", "D. Fang", "E. Mico", "F. Kit"],
+            "correct": "C"
+        },
+        {
+             "id": 24,
+             "question": "Who is not a white person?",
+             "options": ["A. Colette", "B. Buster", "C. Pam", "D. Fang"],
+            "correct": "D"
+        },
+       {
+            "id": 25,
+            "question": "Which season was Zeus Brock released",
+            "options": ["A. The Robot Factory", "B. Rumble Jungle", "C. Candyland", "D. Deep Sea Brawl"],
+            "correct": "A"
+       },
+       {
+            "id": 26,
+           "question": "Who is wearing a costume",
+           "options": ["A. Squeak", "B. Doug", "C. Spike", "D. Buzz"],
+           "correct": "D"
+      },
+      {
+           "id": 27,
+           "question": "Which of these are a support brawler",
+          "options": ["A. Kit", "B. Surge", "C. Chester", "D. Janet"],
+          "correct": "A"
+      },
+      {
+           "id": 28,
+            "question": "Who says 'I'm about to crash and burn'",
+            "options": ["A. Max", "B. Melodie", "C. Cordelius", "D. Janet"],
+           "correct": "D"
+        },
+        {
+           "id": 29,
+           "question": "Which brawler can jump over walls",
+           "options": ["A. Bull", "B. Leon", "C. Chuck", "D. Angelo", "E. Daryll"],
+          "correct": "C"
+       },
+       {
+            "id": 30,
+           "question": "Who does not boomerang an attack or super",
+          "options": ["A. Charlie", "B. Mortis", "C. Collette", "D. Carl"],
+            "correct": "B"
+        },
+        {
+           "id": 31,
+            "question": "Which of these brawlers has a skin based on a TIGER",
+             "options": ["A. Janet", "B. Fang", "C. El Primo", "D. Colt", "E. Mico"],
+            "correct": "C"
+         },
+         {
+           "id": 32,
+            "question": "Which brawlers something on their back?",
+            "options": ["A. Janet", "B. Max", "C. Byron", "D. Chester", "E. Squeak", "F. Surge"],
+           "correct": ["A", "C", "D", "E"]
+       },
+       {
+            "id": 33,
+           "question": "Which brawler says ‘you will pay for that’",
+           "options": ["A. Grom", "B. Byron", "C. Surge", "D. Ash"],
+            "correct": "B"
+        },
+       {
+            "id": 34,
+           "question": "Name a brawl stars YouTuber",
+            "options": ["A. Coryxkension", "B. Dylan", "C. Dom", "D. Drage", "E. Zeta Division", "F. Dani"],
+            "correct": "D"
+        },
+        {
+            "id": 35,
+            "question":"Who was featured in the Starr Park CCTV from last year (2023)",
+             "options": ["A. Max", "B. Mandy", "C. Fang", "D. Tick"],
+             "correct": "B"
+         },
+         {
+            "id": 36,
+            "question": "What is the highest rarity of a brawler?",
+             "options": ["A. Mythic", "B. Legendary", "C. Chromatic", "D. Epic"],
+             "correct": "C"
+         },
+         {
+            "id": 37,
+            "question": "Which game mode does not have a showdown variant",
+              "options": ["A. Brawl Ball", "B. Gem Grab", "C. Knockout", "D. Heist"],
+              "correct":"D"
+        },
+         {
+             "id": 38,
+             "question": "Who is the 'King of the Jungle'",
+             "options": ["A. Buzz", "B. Ash", "C. El Primo", "D. Spike"],
+              "correct": "A"
+        },
+        {
+           "id": 39,
+           "question": "What kind of animal is Nita?",
+            "options": ["A. Bear", "B. Wolf", "C. Fox", "D. Tiger"],
+            "correct": "A"
+        },
+         {
+            "id": 40,
+             "question": "Which of these Brawlers is the youngest?",
+            "options": ["A. Bonnie", "B. Lola", "C. Gus", "D. Ash"],
+             "correct": "C"
+         },
+          {
+            "id": 41,
+             "question": "Which of these brawlers attack has a charge mechanic?",
+             "options": ["A. Bibi", "B. Frank", "C. Pam", "D. Chester"],
+             "correct": "A"
+         },
+        {
+            "id": 42,
+            "question": "Which Brawler is known for their area of effect damage and wall breaking",
+            "options": ["A. Brock", "B. Barley", "C. Dynamike", "D. Jessie"],
+            "correct": "C"
+        },
+        {
+            "id": 43,
+             "question": "Which Brawler is a master of deception?",
+            "options": ["A. Leon", "B. Mortis", "C. Sandy", "D. Crow"],
+             "correct": "A"
+         },
+         {
+            "id": 44,
+            "question": "Which of these brawlers is the main antagonist of the game?",
+             "options": ["A. Mortis", "B. Surge", "C. Otis", "D. Chester"],
+            "correct":"B"
+         },
+        {
+            "id": 45,
+            "question": "Which of these maps is present in all game modes?",
+            "options": ["A. Island Invasion", "B. Backyard Bowl", "C. Open Space", "D. Layer Cake"],
+            "correct": "A"
+       },
+       {
+           "id": 46,
+           "question": "Which Brawler uses a yo-yo?",
+           "options": ["A.  Bibi", "B.  Buzz", "C.  Fang", "D.  Griff"],
+           "correct": "A"
+       },
+       {
+           "id": 47,
+          "question": "What is the name of the in-game currency used to buy skins, brawlers and other items?",
+            "options": ["A. Gems", "B. Coins", "C. Credits", "D. Star Points"],
+            "correct": "A"
+      },
+     {
+            "id": 48,
+           "question": "Which brawler can heal with their main attack?",
+            "options": ["A. Poco", "B. Pam", "C. Byron", "D. Gene"],
+            "correct": "C"
+     },
+      {
+           "id": 49,
+            "question": "Which of these brawlers can dash?",
+             "options": ["A. Mortis", "B. Carl", "C. Darryl", "D. Primo"],
+            "correct": "A"
+     },
+     {
+           "id": 50,
+            "question": "Who does NOT have a super that places something on the field?",
+            "options": ["A. Penny", "B. Jessie", "C. Amber", "D. Dynamike"],
+            "correct":"D"
+      }
+    ],
+    "scienceQuestions": [
+       {
+        "id": 1,
+        "question": "What is H2O commonly known as?",
+        "options": ["A. Oxygen", "B. Water", "C. Hydrogen", "D. Salt"],
+        "correct": "B"
+      },
+      {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A. Venus", "B. Mars", "C. Jupiter", "D. Mercury"],
+        "correct": "B"
+      },
+      {
+        "id": 3,
+        "question": "What gas do plants primarily absorb?",
+        "options": ["A. Oxygen", "B. Carbon Dioxide", "C. Nitrogen", "D. Helium"],
+        "correct": "B"
+      },
+      {
+        "id": 4,
+        "question": "What force keeps us on the ground?",
+        "options": ["A. Friction", "B. Gravity", "C. Magnetism", "D. Inertia"],
+        "correct": "B"
+      },
+      {
+        "id": 5,
+        "question": "Which organ pumps blood through the body?",
+        "options": ["A. Lungs", "B. Heart", "C. Liver", "D. Kidney"],
+        "correct": "B"
+      },
+       {
+        "id": 6,
+        "question": "What is the process of water turning into vapor called?",
+        "options": ["A. Condensation", "B. Precipitation", "C. Evaporation", "D. Melting"],
+        "correct": "C"
+       },
+        {
+         "id": 7,
+         "question": "Which of the following is a renewable energy source?",
+         "options": ["A. Coal", "B. Oil", "C. Solar", "D. Natural Gas"],
+          "correct": "C"
+        },
+        {
+            "id": 8,
+            "question": "What are the three states of matter?",
+             "options": ["A. Solid, Liquid, Gas", "B. Earth, Air, Water", "C. Hot, Cold, Warm", "D. Dark, Light, Shadow"],
+            "correct": "A"
+        },
+         {
+            "id": 9,
+            "question": "What do we call a plant’s ability to make its own food?",
+            "options": ["A. Breathing", "B. Photosynthesis", "C. Respiration", "D. Circulation"],
+             "correct": "B"
+         },
+        {
+          "id": 10,
+          "question":"What is the main function of the roots of a plant?",
+          "options": ["A. To produce food", "B. To absorb water and nutrients", "C. To make flowers", "D. To protect the plant"],
+          "correct": "B"
+        },
+        {
+           "id": 11,
+           "question": "Which animal is known for migrating from one place to another?",
+             "options": ["A. Bear", "B. Lion", "C. Salmon", "D. Elephant"],
+            "correct": "C"
+        },
+        {
+           "id": 12,
+            "question": "Which of the following is a decomposer?",
+             "options": ["A. Grass", "B. Worm", "C. Bird", "D. Rabbit"],
+            "correct":"B"
+        },
+         {
+            "id": 13,
+             "question": "What is the first layer of soil called?",
+            "options": ["A. Bedrock", "B. Topsoil", "C. Subsoil", "D. Clay"],
+            "correct": "B"
+        },
+        {
+            "id": 14,
+            "question": "What part of the body is responsible for breaking down food?",
+            "options": ["A. Brain", "B. Heart", "C. Stomach", "D. Kidneys"],
+            "correct": "C"
+        },
+        {
+            "id": 15,
+           "question": "What tool do we use to measure temperature?",
+            "options": ["A. Ruler", "B. Thermometer", "C. Compass", "D. Scale"],
+            "correct": "B"
+        },
+        {
+           "id": 16,
+           "question": "What is the study of living organisms called?",
+           "options": ["A. Physics", "B. Chemistry", "C. Biology", "D. Geology"],
+            "correct": "C"
+        },
+        {
+           "id": 17,
+           "question": "What is the name of the force that opposes motion?",
+            "options": ["A. Gravity", "B. Friction", "C. Magnetism", "D. Inertia"],
+            "correct": "B"
+        },
+        {
+            "id": 18,
+             "question": "What is the main source of light for Earth?",
+            "options": ["A. Moon", "B. Stars", "C. Sun", "D. Fire"],
+            "correct": "C"
+        },
+        {
+            "id": 19,
+           "question": "What are the small particles that make up all matter called?",
+            "options": ["A. Cells", "B. Atoms", "C. Molecules", "D. Compounds"],
+            "correct": "B"
+       },
+       {
+            "id": 20,
+             "question": "What type of energy is associated with movement?",
+            "options": ["A. Potential Energy", "B. Kinetic Energy", "C. Chemical Energy", "D. Electrical Energy"],
+            "correct": "B"
+       },
+       {
+          "id": 21,
+           "question": "Which of the following is a non-metal?",
+           "options": ["A. Iron", "B. Copper", "C. Oxygen", "D. Aluminum"],
+          "correct": "C"
+      },
+       {
+           "id": 22,
+           "question": "What is the process where plants release water vapor into the air called?",
+            "options": ["A. Transpiration", "B. Respiration", "C. Condensation", "D. Precipitation"],
+            "correct": "A"
+       },
+      {
+           "id": 23,
+            "question": "Which of the following is a type of simple machine?",
+           "options": ["A. Computer", "B. Lever", "C. Bicycle", "D. Car"],
+            "correct": "B"
+       },
+       {
+           "id": 24,
+           "question":"What is the Earth’s protective layer against the sun called?",
+            "options": ["A. Biosphere", "B. Atmosphere", "C. Stratosphere", "D. Ozone Layer"],
+            "correct": "D"
+      },
+      {
+            "id": 25,
+           "question": "Which of these is a type of invertebrate?",
+           "options": ["A. Fish", "B. Bird", "C. Insect", "D. Mammal"],
+           "correct": "C"
+       },
+        {
+            "id": 26,
+            "question": "What process causes a seed to start growing?",
+             "options": ["A. Germination", "B. Pollination", "C. Fertilization", "D. Decomposition"],
+             "correct":"A"
+        },
+       {
+            "id": 27,
+            "question": "What does a compass measure?",
+            "options": ["A. Temperature", "B. Weight", "C. Direction", "D. Pressure"],
+             "correct": "C"
+       },
+        {
+          "id": 28,
+           "question": "What is the name for a group of lions?",
+           "options": ["A. Flock", "B. Herd", "C. Pride", "D. Pack"],
+           "correct":"C"
+       },
+       {
+         "id": 29,
+          "question": "Which planet is closest to the sun?",
+          "options": ["A. Earth", "B. Mars", "C. Mercury", "D. Venus"],
+           "correct": "C"
+        },
+      {
+           "id": 30,
+           "question":"What is the chemical symbol for table salt?",
+             "options": ["A. H2O", "B. NaCl", "C. CO2", "D. O2"],
+           "correct": "B"
+       },
+        {
+            "id": 31,
+            "question": "Which part of the flower contains pollen?",
+             "options": ["A. Petal", "B. Sepal", "C. Stamen", "D. Pistil"],
+            "correct": "C"
+        },
+        {
+           "id": 32,
+            "question": "What is the study of the Earth's physical structure called?",
+             "options": ["A. Geology", "B. Biology", "C. Astronomy", "D. Chemistry"],
+             "correct": "A"
+        },
+       {
+            "id": 33,
+            "question": "Which is the largest mammal on Earth?",
+             "options": ["A. Elephant", "B. Blue Whale", "C. Giraffe", "D. Rhinoceros"],
+             "correct": "B"
+        },
+        {
+           "id": 34,
+            "question": "What is the process of breaking down rocks into smaller pieces?",
+             "options": ["A. Erosion", "B. Weathering", "C. Sedimentation", "D. Deposition"],
+            "correct": "B"
+        },
+        {
+           "id": 35,
+            "question": "Which of these is a type of cloud?",
+            "options": ["A. Cirrus", "B. Dew", "C. Fog", "D. Mist"],
+            "correct": "A"
+        },
+        {
+           "id": 36,
+            "question": "What does the term 'carnivore' mean?",
+             "options": ["A. A plant eater", "B. A meat eater", "C. An animal that eats both plants and meat", "D. An organism that consumes dead matter"],
+            "correct": "B"
+        },
+       {
+            "id": 37,
+            "question": "What is the process of turning liquid into solid called?",
+            "options": ["A. Melting", "B. Boiling", "C. Freezing", "D. Evaporating"],
+            "correct": "C"
+       },
+        {
+           "id": 38,
+          "question": "Which gas is most abundant in the Earth's atmosphere?",
+          "options": ["A. Oxygen", "B. Nitrogen", "C. Carbon Dioxide", "D. Helium"],
+          "correct":"B"
+       },
+        {
+           "id": 39,
+          "question":"What type of cells carry oxygen in our blood?",
+           "options": ["A. Nerve cells", "B. Muscle cells", "C. Red blood cells", "D. White blood cells"],
+           "correct": "C"
+        },
+        {
+            "id": 40,
+            "question": "What is the main function of the leaves of a plant?",
+            "options": ["A. To anchor the plant", "B. To absorb water", "C. To make food", "D. To reproduce"],
+             "correct": "C"
+        },
+       {
+            "id": 41,
+           "question": "What is the name for the chemical energy stored in food?",
+            "options": ["A. Glucose", "B. Protein", "C. Carbohydrate", "D. Calories"],
+             "correct": "D"
+        },
+         {
+            "id": 42,
+            "question":"Which part of the body helps in digestion and absorption of food?",
+             "options": ["A. Kidney", "B. Lungs", "C. Liver", "D. Small intestine"],
+             "correct": "D"
+         },
+        {
+           "id": 43,
+            "question": "What is the name for the force that pulls two magnets together?",
+            "options": ["A. Gravity", "B. Friction", "C. Magnetic Force", "D. Centrifugal Force"],
+            "correct": "C"
+       },
+       {
+            "id": 44,
+           "question": "What is the speed of sound in the air?",
+             "options": ["A. 343 m/s", "B. 300 m/s", "C. 400 m/s", "D. 200 m/s"],
+             "correct":"A"
+        },
+        {
+            "id": 45,
+            "question": "Which of the following is a good conductor of electricity?",
+            "options": ["A. Wood", "B. Rubber", "C. Copper", "D. Plastic"],
+            "correct": "C"
+        },
+         {
+            "id": 46,
+             "question": "What part of a plant is typically above ground?",
+            "options": ["A. Root", "B. Stem", "C. Seed", "D. Rhizome"],
+            "correct": "B"
+         },
+        {
+             "id": 47,
+             "question": "What is the chemical formula for carbon dioxide?",
+             "options": ["A. H2O", "B. CO2", "C. O2", "D. NaCl"],
+             "correct": "B"
+         },
+       {
+             "id": 48,
+            "question": "What is a common name for the group of animals called 'amphibians'?",
+           "options": ["A. Reptiles", "B. Fish", "C. Frogs", "D. Birds"],
+            "correct": "C"
+      },
+      {
+            "id": 49,
+           "question": "What is the name of the process in which plants release oxygen?",
+             "options": ["A. Respiration", "B. Photosynthesis", "C. Transpiration", "D. Evaporation"],
+             "correct":"B"
+        },
+       {
+             "id": 50,
+             "question": "Which of the following is the smallest unit of living organisms?",
+           "options": ["A. Tissue", "B. Organ", "C. Cell", "D. System"],
+            "correct":"C"
+        }
+    ],
+    "mathQuestions": [
+        {
+          "id": 1,
+          "question": "What is 7 x 8?",
+          "options": ["A. 54", "B. 56", "C. 49", "D. 64"],
+          "correct": "B"
+        },
+        {
+          "id": 2,
+          "question": "What is the square root of 64?",
+          "options": ["A. 8", "B. 6", "C. 7", "D. 9"],
+          "correct": "A"
+        },
+        {
+          "id": 3,
+          "question": "12 + 15 = ?",
+          "options": ["A. 25", "B. 27", "C. 26", "D. 24"],
+          "correct": "B"
+        },
+        {
+          "id": 4,
+          "question": "What is 10% of 200?",
+          "options": ["A. 20", "B. 2", "C. 10", "D. 40"],
+          "correct": "A"
+        },
+        {
+          "id": 5,
+          "question": "What is 9 x 9?",
+          "options": ["A. 81", "B. 72", "C. 63", "D. 91"],
+          "correct": "A"
+        },
+          {
+              "id": 6,
+             "question": "What is 12 x 5?",
+              "options": ["A. 60", "B. 55", "C. 70", "D. 65"],
+              "correct":"A"
+         },
+        {
+              "id": 7,
+              "question": "What is 100 / 4?",
+               "options": ["A. 30", "B. 25", "C. 20", "D. 35"],
+              "correct": "B"
+          },
+          {
+             "id": 8,
+              "question": "What is 25 + 36?",
+             "options": ["A. 60", "B. 61", "C. 62", "D. 63"],
+             "correct": "B"
+          },
+         {
+              "id": 9,
+               "question": "What is 15 - 8?",
+              "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
+              "correct": "B"
+         },
+        {
+              "id": 10,
+              "question": "What is 120 / 10?",
+               "options": ["A. 10", "B. 12", "C. 15", "D. 8"],
+              "correct": "B"
+         },
+           {
+              "id": 11,
+              "question": "What is the next number in this sequence: 2, 4, 6, 8, __?",
+              "options": ["A. 12", "B. 10", "C. 11", "D. 14"],
+              "correct": "B"
+          },
+         {
+             "id": 12,
+              "question": "What is 20% of 50?",
+               "options": ["A. 5", "B. 10", "C. 15", "D. 20"],
+              "correct": "B"
+          },
+         {
+              "id": 13,
+              "question": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its area?",
+               "options": ["A. 50 cm²", "B. 30 cm²", "C. 15 cm²", "D. 25 cm²"],
+              "correct": "A"
+          },
+           {
+              "id": 14,
+              "question":"What is 1/2 + 1/4?",
+               "options": ["A. 2/4", "B. 3/4", "C. 4/6", "D. 2/8"],
+               "correct": "B"
+          },
+          {
+             "id": 15,
+             "question": "What is the perimeter of a square with sides of 6cm?",
+              "options": ["A. 12 cm", "B. 24 cm", "C. 36 cm", "D. 18 cm"],
+              "correct": "B"
+          },
+          {
+             "id": 16,
+             "question": "What is 25 x 4?",
+               "options": ["A. 80", "B. 100", "C. 90", "D. 110"],
+              "correct": "B"
+          },
+          {
+              "id": 17,
+              "question": "What is 3 x 3 x 3?",
+               "options": ["A. 27", "B. 9", "C. 18", "D. 21"],
+              "correct": "A"
+          },
+           {
+              "id": 18,
+              "question": "What is 1000 / 100?",
+              "options": ["A. 10", "B. 100", "C. 1000", "D. 1"],
+              "correct": "A"
+         },
+         {
+              "id": 19,
+              "question": "What is 50% of 80?",
+               "options": ["A. 30", "B. 40", "C. 50", "D. 60"],
+               "correct": "B"
+         },
+          {
+              "id": 20,
+              "question": "If a triangle has angles of 60 degrees and 80 degrees, what is the third angle?",
+              "options": ["A. 50 degrees", "B. 40 degrees", "C. 60 degrees", "D. 70 degrees"],
+              "correct": "B"
+          },
+          {
+              "id": 21,
+               "question": "What is 1/3 of 90?",
+              "options": ["A. 20", "B. 30", "C. 45", "D. 60"],
+             "correct": "B"
+          },
+          {
+              "id": 22,
+             "question": "What is 125 - 75?",
+              "options": ["A. 40", "B. 50", "C. 60", "D. 70"],
+               "correct": "B"
+          },
+         {
+              "id": 23,
+              "question": "What is 6 x 7?",
+               "options": ["A. 42", "B. 35", "C. 48", "D. 54"],
+               "correct": "A"
+          },
+        {
+              "id": 24,
+              "question": "What is 144 / 12?",
+              "options": ["A. 10", "B. 12", "C. 14", "D. 16"],
+              "correct": "B"
+          },
+        {
+             "id": 25,
+              "question": "What is 10% of 500?",
+              "options": ["A. 25", "B. 50", "C. 75", "D. 100"],
+              "correct": "B"
+         },
+          {
+              "id": 26,
+              "question": "What is 11 x 11?",
+              "options": ["A. 121", "B. 111", "C. 132", "D. 100"],
+             "correct": "A"
+          },
+          {
+              "id": 27,
+             "question":"What is 25% of 100?",
+              "options": ["A. 10", "B. 20", "C. 25", "D. 50"],
+              "correct":"C"
+         },
+         {
+              "id": 28,
+              "question": "If you have 3 groups of 6, how many do you have total?",
+              "options": ["A. 15", "B. 18", "C. 21", "D. 24"],
+              "correct": "B"
+         },
+          {
+              "id": 29,
+              "question": "What is 500 + 500?",
+               "options": ["A. 100", "B. 1000", "C. 500", "D. 1500"],
+               "correct": "B"
+          },
+          {
+              "id": 30,
+               "question": "What is the value of pi (π) rounded to two decimal places?",
+               "options": ["A. 3.12", "B. 3.14", "C. 3.16", "D. 3.18"],
+              "correct": "B"
+           },
+           {
+               "id": 31,
+                "question": "What is the result of 10 x 10 - 50?",
+              "options": ["A. 100", "B. 50", "C. 150", "D. 10"],
+               "correct": "B"
+           },
+          {
+              "id": 32,
+              "question":"What is the value of 100 - 42?",
+               "options": ["A. 58", "B. 68", "C. 62", "D. 48"],
+               "correct": "A"
+          },
+         {
+               "id": 33,
+               "question": "What is the sum of 25 + 47 + 13?",
+                "options": ["A. 75", "B. 80", "C. 85", "D. 95"],
+               "correct": "C"
+         },
+          {
+               "id": 34,
+              "question": "If a book costs $15 and you give $20, how much change do you get?",
+                "options": ["A. $3", "B. $4", "C. $5", "D. $6"],
+                "correct": "C"
+          },
+          {
+              "id": 35,
+               "question":"What is 2 to the power of 5?",
+                "options": ["A. 16", "B. 32", "C. 24", "D. 10"],
+               "correct": "B"
+          },
+          {
+               "id": 36,
+               "question": "What is 1/5 + 2/5?",
+              "options": ["A. 2/5", "B. 3/5", "C. 4/5", "D. 1/10"],
+               "correct": "B"
+          },
+          {
+              "id": 37,
+              "question":"What is the greatest common factor (GCF) of 12 and 18?",
+               "options": ["A. 2", "B. 3", "C. 6", "D. 9"],
+              "correct": "C"
+         },
+         {
+              "id": 38,
+              "question": "What is 4 x 15?",
+              "options": ["A. 50", "B. 60", "C. 70", "D. 80"],
+               "correct": "B"
+          },
+         {
+              "id": 39,
+              "question": "What is 180 / 9?",
+               "options":["A. 10", "B. 20", "C. 30", "D. 40"],
+              "correct": "B"
+          },
+          {
+             "id": 40,
+             "question": "If a circle has a diameter of 10 cm, what is its radius?",
+             "options": ["A. 20 cm", "B. 5 cm", "C. 10 cm", "D. 15 cm"],
+             "correct": "B"
+          },
+           {
+               "id": 41,
+               "question": "What is the result of 20 + 30 - 15?",
+              "options": ["A. 25", "B. 30", "C. 35", "D. 40"],
+              "correct": "C"
+           },
+           {
+              "id": 42,
+              "question": "What is 1/2 of 30?",
+               "options": ["A. 10", "B. 15", "C. 20", "D. 25"],
+               "correct":"B"
+          },
+         {
+              "id": 43,
+              "question": "What is the least common multiple (LCM) of 4 and 6?",
+              "options": ["A. 8", "B. 12", "C. 18", "D. 24"],
+              "correct": "B"
+          },
+         {
+              "id": 44,
+              "question": "What is 1.5 + 2.5?",
+              "options": ["A. 3.0", "B. 3.5", "C. 4.0", "D. 4.5"],
+              "correct": "C"
+          },
+         {
+             "id": 45,
+              "question":"If you have 4 quarters, how many cents do you have?",
+              "options": ["A. 25 cents", "B. 50 cents", "C. 75 cents", "D. 100 cents"],
+              "correct": "D"
+         },
+          {
+              "id": 46,
+              "question": "What is 12 x 6?",
+              "options": ["A. 60", "B. 72", "C. 84", "D. 96"],
+             "correct": "B"
+         },
+          {
+              "id": 47,
+              "question":"What is 3/8 + 1/8?",
+               "options": ["A. 1/2", "B. 3/4", "C. 4/16", "D. 1/4"],
+              "correct":"A"
+          },
+          {
+             "id": 48,
+             "question": "What is 250 / 5?",
+              "options": ["A. 25", "B. 50", "C. 75", "D. 100"],
+             "correct": "B"
+         },
+         {
+              "id": 49,
+             "question":"What is 4 squared?",
+              "options": ["A. 8", "B. 16", "C. 20", "D. 12"],
+              "correct":"B"
+          },
+          {
+              "id": 50,
+              "question": "What is 1000 - 350?",
+               "options": ["A. 600", "B. 650", "C. 700", "D. 750"],
+               "correct": "B"
+           }
+      ],
+      "worldQuestions": [
+        {
+          "id": 1,
+          "question": "What is the capital of Canada?",
+          "options": ["A. Toronto", "B. Ottawa", "C. Montreal", "D. Vancouver"],
+          "correct": "B"
+        },
+        {
+          "id": 2,
+          "question": "Which continent is Brazil in?",
+          "options": ["A. Africa", "B. Europe", "C. South America", "D. Asia"],
+          "correct": "C"
+        },
+        {
+          "id": 3,
+          "question": "Which country is known for the Great Wall?",
+          "options": ["A. China", "B. Japan", "C. India", "D. Russia"],
+          "correct": "A"
+        },
+        {
+          "id": 4,
+          "question": "What is the largest ocean on Earth?",
+          "options": ["A. Atlantic", "B. Pacific", "C. Indian", "D. Arctic"],
+          "correct": "B"
+        },
+        {
+          "id": 5,
+          "question": "Mount Everest is located in which mountain range?",
+          "options": ["A. Rockies", "B. Andes", "C. Himalayas", "D. Alps"],
+          "correct": "C"
+        },
+         {
+            "id": 6,
+            "question": "What is the currency of Japan?",
+            "options": ["A. Won", "B. Yen", "C. Ringgit", "D. Baht"],
+            "correct": "B"
+          },
+          {
+            "id": 7,
+            "question": "Which river is the longest in the world?",
+            "options": ["A. Nile", "B. Amazon", "C. Yangtze", "D. Mississippi"],
+            "correct": "A"
+          },
+          {
+            "id": 8,
+            "question": "What is the smallest country in the world?",
+             "options": ["A. Monaco", "B. Vatican City", "C. San Marino", "D. Malta"],
+            "correct": "B"
+          },
+          {
+            "id": 9,
+             "question": "Which city is known as the 'City of Love'?",
+            "options": ["A. Rome", "B. London", "C. Paris", "D. Venice"],
+            "correct": "C"
+          },
+          {
+            "id": 10,
+            "question": "What is the name of the desert in North Africa?",
+            "options": ["A. Gobi", "B. Sahara", "C. Arabian", "D. Kalahari"],
+            "correct": "B"
+          },
+        {
+            "id": 11,
+            "question":"Which country is known as the 'Land of the Rising Sun'?",
+            "options": ["A. China", "B. Korea", "C. Japan", "D. Vietnam"],
+            "correct": "C"
+          },
+        {
+            "id": 12,
+            "question": "What is the highest mountain in Africa?",
+            "options": ["A. Mount Kenya", "B. Mount Kilimanjaro", "C. Mount Meru", "D. Mount Atlas"],
+            "correct": "B"
+          },
+        {
+           "id": 13,
+            "question": "Which of these is a Scandinavian country?",
+            "options": ["A. Spain", "B. Italy", "C. Sweden", "D. Portugal"],
+            "correct": "C"
+         },
+        {
+          "id": 14,
+          "question": "What is the name of the famous clock tower in London?",
+          "options": ["A. Clock Tower", "B. Big Ben", "C. Tower Clock", "D. London Eye"],
+           "correct": "B"
+        },
+        {
+            "id": 15,
+            "question": "Which continent is also a country?",
+            "options": ["A. Europe", "B. Antarctica", "C. Australia", "D. South America"],
+            "correct": "C"
+          },
+         {
+            "id": 16,
+           "question": "Which is the largest lake in the world by surface area?",
+           "options": ["A. Lake Baikal", "B. Lake Superior", "C. Caspian Sea", "D. Lake Victoria"],
+            "correct":"C"
+          },
+         {
+             "id": 17,
+           "question": "Which country is famous for its tulips and windmills?",
+           "options": ["A. Belgium", "B. Germany", "C. Netherlands", "D. France"],
+           "correct": "C"
+         },
+         {
+            "id": 18,
+            "question": "What is the name of the strait that separates Europe from Africa?",
+           "options": ["A. Strait of Hormuz", "B. Strait of Malacca", "C. Strait of Gibraltar", "D. Bering Strait"],
+           "correct": "C"
+         },
+        {
+           "id": 19,
+           "question": "What is the capital city of Australia?",
+           "options": ["A. Sydney", "B. Melbourne", "C. Canberra", "D. Brisbane"],
+            "correct": "C"
+          },
+        {
+            "id": 20,
+            "question":"Which city is home to the Taj Mahal?",
+            "options": ["A. Mumbai", "B. Delhi", "C. Agra", "D. Kolkata"],
+            "correct":"C"
+        },
+        {
+           "id": 21,
+            "question":"Which of these is NOT a country in South America?",
+            "options": ["A. Peru", "B. Argentina", "C. Nigeria", "D. Colombia"],
+            "correct": "C"
+          },
+        {
+          "id": 22,
+          "question": "The Statue of Liberty is located in which city?",
+          "options": ["A. Washington D.C", "B. New York City", "C. Chicago", "D. Los Angeles"],
+          "correct": "B"
+        },
+       {
+           "id": 23,
+           "question": "What is the name of the large barrier reef off the coast of Australia?",
+            "options": ["A. Great Coral Reef", "B. Great Barrier Reef", "C. Coral Sea Reef", "D. Australia Reef"],
+           "correct": "B"
+        },
+        {
+          "id": 24,
+          "question": "Which European country is famous for its chocolate?",
+          "options": ["A. Italy", "B. France", "C. Switzerland", "D. Germany"],
+          "correct": "C"
+        },
+        {
+          "id": 25,
+          "question": "What is the name of the mountain range that runs through North America?",
+          "options": ["A. Andes", "B. Alps", "C. Rockies", "D. Himalayas"],
+          "correct": "C"
+        },
+        {
+            "id": 26,
+            "question": "Which famous landmark is in Egypt?",
+            "options": ["A. Eiffel Tower", "B. Great Pyramid of Giza", "C. Colosseum", "D. Statue of Liberty"],
+           "correct": "B"
+        },
+        {
+            "id": 27,
+            "question": "Which of the following is a Nordic country?",
+            "options": ["A. Ireland", "B. Iceland", "C. Belgium", "D. Austria"],
+            "correct":"B"
+          },
+       {
+          "id": 28,
+           "question": "What is the official language of Brazil?",
+            "options": ["A. Spanish", "B. Portuguese", "C. English", "D. French"],
+          "correct":"B"
+        },
+        {
+            "id": 29,
+            "question": "What is the capital of France?",
+           "options": ["A. Rome", "B. Berlin", "C. Paris", "D. Madrid"],
+           "correct": "C"
+        },
+        {
+            "id": 30,
+            "question": "Which country is known as the 'Land of Fire and Ice'?",
+            "options": ["A. Greenland", "B. Iceland", "C. Norway", "D. Sweden"],
+           "correct": "B"
+        },
+         {
+            "id": 31,
+           "question":"The Amazon rainforest is mainly located in which country?",
+            "options": ["A. Colombia", "B. Peru", "C. Brazil", "D. Argentina"],
+            "correct":"C"
+         },
+        {
+            "id": 32,
+           "question": "The Great Barrier Reef is located off the coast of which continent?",
+           "options": ["A. Africa", "B. Asia", "C. Australia", "D. South America"],
+            "correct": "C"
+          },
+        {
+          "id": 33,
+          "question": "What is the name of the largest desert in Asia?",
+          "options": ["A. Sahara", "B. Gobi", "C. Arabian", "D. Kalahari"],
+          "correct": "B"
+        },
+        {
+          "id": 34,
+            "question": "Which of these cities is located on a canal?",
+            "options": ["A. Berlin", "B. Rome", "C. Venice", "D. Barcelona"],
+           "correct":"C"
+        },
+          {
+              "id": 35,
+            "question": "Which is the longest mountain range in the world?",
+            "options": ["A. Rockies", "B. Andes", "C. Himalayas", "D. Alps"],
+            "correct": "B"
+          },
+        {
+          "id": 36,
+          "question": "What is the capital of Russia?",
+          "options": ["A. St. Petersburg", "B. Kiev", "C. Moscow", "D. Warsaw"],
+          "correct": "C"
+        },
+        {
+           "id": 37,
+          "question": "Which country is known for its pyramids?",
+          "options": ["A. Greece", "B. Italy", "C. Egypt", "D. Turkey"],
+          "correct":"C"
+        },
+       {
+           "id": 38,
+           "question": "What is the name of the famous opera house in Sydney?",
+           "options": ["A. Sydney Theater", "B. Sydney Opera House", "C. Sydney Concert Hall", "D. Sydney Auditorium"],
+            "correct": "B"
+       },
+       {
+            "id": 39,
+            "question": "What is the currency of the United Kingdom?",
+            "options": ["A. Dollar", "B. Euro", "C. Pound Sterling", "D. Yen"],
+             "correct":"C"
+         },
+         {
+             "id": 40,
+             "question": "Which continent is the Sahara Desert located in?",
+             "options":["A. Asia", "B. Europe", "C. Africa", "D. Australia"],
+            "correct":"C"
+          },
+        {
+            "id": 41,
+            "question": "What is the capital of Italy?",
+            "options": ["A. Venice", "B. Rome", "C. Florence", "D. Milan"],
+            "correct": "B"
+         },
+          {
+            "id": 42,
+            "question": "Which country is famous for its kangaroos?",
+            "options": ["A. New Zealand", "B. South Africa", "C. Australia", "D. Argentina"],
+            "correct":"C"
+         },
+         {
+             "id": 43,
+             "question": "What is the name of the highest waterfall in the world?",
+             "options":["A. Niagara Falls", "B. Angel Falls", "C. Victoria Falls", "D. Iguazu Falls"],
+             "correct":"B"
+          },
+        {
+            "id": 44,
+            "question": "Which country is known for the invention of pizza?",
+            "options": ["A. Greece", "B. Italy", "C. France", "D. Spain"],
+            "correct": "B"
+        },
+        {
+            "id": 45,
+            "question": "Which of these is a South East Asian Country",
+            "options": ["A. Afghanistan", "B. India", "C. Malaysia", "D. Pakistan"],
+            "correct":"C"
+        },
+        {
+            "id": 46,
+            "question": "What is the capital of Spain?",
+            "options": ["A. Barcelona", "B. Lisbon", "C. Madrid", "D. Seville"],
+           "correct":"C"
+         },
+        {
+            "id": 47,
+            "question": "Which of these countries has the largest landmass?",
+             "options": ["A. USA", "B. China", "C. Russia", "D. Brazil"],
+             "correct":"C"
+         },
+         {
+            "id": 48,
+            "question":"Which country is home to the Eiffel Tower?",
+           "options": ["A. England", "B. Italy", "C. France", "D. Germany"],
+           "correct": "C"
+          },
+        {
+            "id": 49,
+           "question":"What is the name of the largest rainforest in the world?",
+           "options":["A. Congo Rainforest", "B. Amazon Rainforest", "C. Sundaland Rainforest", "D. Valdivian Rainforest"],
+            "correct":"B"
+         },
+          {
+             "id": 50,
+             "question":"The Dead Sea is located between which two countries?",
+            "options": ["A. Israel and Jordan", "B. Egypt and Sudan", "C. Syria and Iraq", "D. Iran and Afghanistan"],
+            "correct":"A"
+           }
+      ]
+    }

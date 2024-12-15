@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Gus's Brawl*Board Game (GBBG)</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- Intro Screen -->
+<div id="intro-screen" class="screen active">
+    <div class="intro-content">
+        <h1>Gus's <img src="gus.png" alt="Gus" id="gus-image"> Brawl*Board Game</h1>
+        <h2>(GBBG)</h2>
+        <div class="player-count">
+            <span>Number of Players:</span>
+            <div class="counter">
+                <button id="decrement-players">-</button>
+                <span id="player-count">2</span>
+                <button id="increment-players">+</button>
+            </div>
+        </div>
+        <button id="next-to-avatars" class="next-button">Next</button>
+    </div>
+</div>
+
+<!-- Avatar Selection Screen -->
+<div id="avatar-screen" class="screen">
+    <h1>Select Avatars</h1>
+    <div class="avatar-selection-area">
+        <div class="player-slots" id="player-slots"></div>
+        <div class="avatar-pool" id="avatar-pool">
+            <div class="avatar-container">
+                <p class="avatar-name">Frank</p>
+                <img src="frank.png" alt="Frank" draggable="true" class="avatar-option" data-name="Frank">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Cordelius</p>
+                <img src="cordelius.png" alt="Cordelius" draggable="true" class="avatar-option" data-name="Cordelius">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Draco</p>
+                <img src="draco.png" alt="Draco" draggable="true" class="avatar-option" data-name="Draco">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Kit</p>
+                <img src="kit.png" alt="Kit" draggable="true" class="avatar-option" data-name="Kit">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Spike</p>
+                <img src="spike.png" alt="Spike" draggable="true" class="avatar-option" data-name="Spike">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Edgar</p>
+                <img src="edgar.png" alt="Edgar" draggable="true" class="avatar-option" data-name="Edgar">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Crow</p>
+                <img src="crow.png" alt="Crow" draggable="true" class="avatar-option" data-name="Crow">
+            </div>
+            <div class="avatar-container">
+                <p class="avatar-name">Leon</p>
+                <img src="leon.png" alt="Leon" draggable="true" class="avatar-option" data-name="Leon">
+            </div>
+        </div>
+    </div>
+    <button id="start-game" class="next-button">Play</button>
+</div>
+
+<!-- Main Game Screen -->
+<div id="game-screen" class="screen">
+    <div class="left-panel">
+        <h1>GBBG</h1>
+        <div class="current-player-info">
+            <h2 id="current-player-display">Current Player: -</h2>
+        </div>
+        <div class="dice-container">
+            <button id="roll-dice">Roll Dice</button>
+            <div class="dice-display" id="dice-display">-</div>
+        </div>
+        <div class="players-summary" id="players-summary"></div>
+    </div>
+    <div class="board-container">
+        <img src="gamebackground.png" alt="background" class="board-bg">
+        <div class="board-grid" id="board-grid"></div>
+        <div class="confetti" id="confetti"></div>
+    </div>
+</div>
+
+<!-- Question Popup -->
+<div id="question-popup" class="popup">
+    <div class="popup-content">
+        <h2 id="question-text"></h2>
+        <div class="options-container">
+            <div class="option" id="option-A"></div>
+            <div class="option" id="option-B"></div>
+            <div class="option" id="option-C"></div>
+            <div class="option" id="option-D"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Correct/Incorrect Feedback -->
+<div id="feedback-popup" class="popup">
+    <div class="popup-content">
+        <h2 id="feedback-message"></h2>
+        <!-- New buttons for after a winner is announced -->
+        <div id="post-win-buttons" style="display:none; margin-top:1em;">
+            <button id="play-again-btn" class="next-button">Play Again</button>
+            <button id="back-home-btn" class="next-button">Back to Home</button>
+        </div>
+    </div>
+</div>
+
+<script src="game.js"></script>
+</body>
+</html>
