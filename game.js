@@ -192,7 +192,7 @@ function buildBoard() {
         switch(cat) {
             case "brawlstars":
                 sq.classList.add("lightblue");
-                sq.textContent = "BRAWL *s";
+                sq.textContent = "BRAWL*s";
                 break;
             case "science":
                 sq.classList.add("red");
