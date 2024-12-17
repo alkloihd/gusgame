@@ -605,306 +605,306 @@
     ],
     "mathQuestions": [
         {
-          "id": 1,
-          "question": "What is 7 x 8?",
-          "options": ["A. 54", "B. 56", "C. 49", "D. 64"],
-          "correct": "B"
+            "id": 1,
+            "question": "What is the sum of 345 and 678?",
+            "options": ["A. 1013", "B. 1023", "C. 913", "D. 1123"],
+            "correct": "B"
         },
         {
-          "id": 2,
-          "question": "What is the square root of 64?",
-          "options": ["A. 8", "B. 6", "C. 7", "D. 9"],
-          "correct": "A"
+            "id": 2,
+            "question": "A square has a side length of 12 cm. What is its area?",
+            "options": ["A. 24 cm²", "B. 48 cm²", "C. 144 cm²", "D. 169 cm²"],
+            "correct": "C"
         },
         {
-          "id": 3,
-          "question": "12 + 15 = ?",
-          "options": ["A. 25", "B. 27", "C. 26", "D. 24"],
-          "correct": "B"
+            "id": 3,
+             "question": "If a pizza is cut into 8 slices, and you eat 3, what fraction of the pizza is left?",
+             "options": ["A. 3/8", "B. 5/8", "C. 1/2", "D. 1/4"],
+            "correct": "B"
+         },
+        {
+            "id": 4,
+            "question": "What is 25% of 200?",
+            "options": ["A. 25", "B. 50", "C. 75", "D. 100"],
+            "correct": "B"
         },
         {
-          "id": 4,
-          "question": "What is 10% of 200?",
-          "options": ["A. 20", "B. 2", "C. 10", "D. 40"],
-          "correct": "A"
-        },
-        {
-          "id": 5,
-          "question": "What is 9 x 9?",
-          "options": ["A. 81", "B. 72", "C. 63", "D. 91"],
-          "correct": "A"
-        },
-          {
-              "id": 6,
-             "question": "What is 12 x 5?",
-              "options": ["A. 60", "B. 55", "C. 70", "D. 65"],
-              "correct":"A"
-         },
-        {
-              "id": 7,
-              "question": "What is 100 / 4?",
-               "options": ["A. 30", "B. 25", "C. 20", "D. 35"],
-              "correct": "B"
-          },
-          {
-             "id": 8,
-              "question": "What is 25 + 36?",
-             "options": ["A. 60", "B. 61", "C. 62", "D. 63"],
-             "correct": "B"
-          },
-         {
-              "id": 9,
-               "question": "What is 15 - 8?",
-              "options": ["A. 6", "B. 7", "C. 8", "D. 9"],
-              "correct": "B"
-         },
-        {
-              "id": 10,
-              "question": "What is 120 / 10?",
-               "options": ["A. 10", "B. 12", "C. 15", "D. 8"],
-              "correct": "B"
-         },
-           {
-              "id": 11,
-              "question": "What is the next number in this sequence: 2, 4, 6, 8, __?",
-              "options": ["A. 12", "B. 10", "C. 11", "D. 14"],
-              "correct": "B"
-          },
-         {
-             "id": 12,
-              "question": "What is 20% of 50?",
-               "options": ["A. 5", "B. 10", "C. 15", "D. 20"],
-              "correct": "B"
-          },
-         {
-              "id": 13,
-              "question": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its area?",
-               "options": ["A. 50 cm²", "B. 30 cm²", "C. 15 cm²", "D. 25 cm²"],
-              "correct": "A"
-          },
-           {
-              "id": 14,
-              "question":"What is 1/2 + 1/4?",
-               "options": ["A. 2/4", "B. 3/4", "C. 4/6", "D. 2/8"],
-               "correct": "B"
-          },
-          {
-             "id": 15,
-             "question": "What is the perimeter of a square with sides of 6cm?",
-              "options": ["A. 12 cm", "B. 24 cm", "C. 36 cm", "D. 18 cm"],
-              "correct": "B"
-          },
-          {
-             "id": 16,
-             "question": "What is 25 x 4?",
-               "options": ["A. 80", "B. 100", "C. 90", "D. 110"],
-              "correct": "B"
-          },
-          {
-              "id": 17,
-              "question": "What is 3 x 3 x 3?",
-               "options": ["A. 27", "B. 9", "C. 18", "D. 21"],
-              "correct": "A"
-          },
-           {
-              "id": 18,
-              "question": "What is 1000 / 100?",
-              "options": ["A. 10", "B. 100", "C. 1000", "D. 1"],
-              "correct": "A"
-         },
-         {
-              "id": 19,
-              "question": "What is 50% of 80?",
-               "options": ["A. 30", "B. 40", "C. 50", "D. 60"],
-               "correct": "B"
-         },
-          {
-              "id": 20,
-              "question": "If a triangle has angles of 60 degrees and 80 degrees, what is the third angle?",
-              "options": ["A. 50 degrees", "B. 40 degrees", "C. 60 degrees", "D. 70 degrees"],
-              "correct": "B"
-          },
-          {
-              "id": 21,
-               "question": "What is 1/3 of 90?",
-              "options": ["A. 20", "B. 30", "C. 45", "D. 60"],
-             "correct": "B"
-          },
-          {
-              "id": 22,
-             "question": "What is 125 - 75?",
-              "options": ["A. 40", "B. 50", "C. 60", "D. 70"],
-               "correct": "B"
-          },
-         {
-              "id": 23,
-              "question": "What is 6 x 7?",
-               "options": ["A. 42", "B. 35", "C. 48", "D. 54"],
-               "correct": "A"
-          },
-        {
-              "id": 24,
-              "question": "What is 144 / 12?",
-              "options": ["A. 10", "B. 12", "C. 14", "D. 16"],
-              "correct": "B"
-          },
-        {
-             "id": 25,
-              "question": "What is 10% of 500?",
-              "options": ["A. 25", "B. 50", "C. 75", "D. 100"],
-              "correct": "B"
-         },
-          {
-              "id": 26,
-              "question": "What is 11 x 11?",
-              "options": ["A. 121", "B. 111", "C. 132", "D. 100"],
+            "id": 5,
+            "question": "Solve: 7 x 9 - 15",
+             "options": ["A. 48", "B. 58", "C. 63", "D. 78"],
              "correct": "A"
-          },
-          {
-              "id": 27,
-             "question":"What is 25% of 100?",
-              "options": ["A. 10", "B. 20", "C. 25", "D. 50"],
-              "correct":"C"
          },
          {
-              "id": 28,
-              "question": "If you have 3 groups of 6, how many do you have total?",
-              "options": ["A. 15", "B. 18", "C. 21", "D. 24"],
-              "correct": "B"
+            "id": 6,
+            "question": "What is the volume of a cube with a side length of 5 cm?",
+             "options": ["A. 25 cm³", "B. 125 cm³", "C. 150 cm³", "D. 100 cm³"],
+             "correct":"B"
          },
-          {
-              "id": 29,
-              "question": "What is 500 + 500?",
-               "options": ["A. 100", "B. 1000", "C. 500", "D. 1500"],
-               "correct": "B"
-          },
-          {
-              "id": 30,
-               "question": "What is the value of pi (π) rounded to two decimal places?",
-               "options": ["A. 3.12", "B. 3.14", "C. 3.16", "D. 3.18"],
-              "correct": "B"
-           },
-           {
-               "id": 31,
-                "question": "What is the result of 10 x 10 - 50?",
-              "options": ["A. 100", "B. 50", "C. 150", "D. 10"],
-               "correct": "B"
-           },
-          {
-              "id": 32,
-              "question":"What is the value of 100 - 42?",
-               "options": ["A. 58", "B. 68", "C. 62", "D. 48"],
-               "correct": "A"
-          },
+        {
+            "id": 7,
+            "question": "Convert 3.5 meters to centimeters.",
+             "options": ["A. 35 cm", "B. 350 cm", "C. 3500 cm", "D. 0.35 cm"],
+            "correct": "B"
+        },
+        {
+            "id": 8,
+            "question": "What is the next number in the sequence: 3, 7, 11, 15, ____?",
+            "options": ["A. 18", "B. 19", "C. 20", "D. 21"],
+           "correct": "B"
+        },
+        {
+            "id": 9,
+            "question": "If a train travels at 80 km/h for 3 hours, how far does it travel?",
+             "options": ["A. 240 km", "B. 160 km", "C. 200 km", "D. 210 km"],
+            "correct": "A"
+       },
+        {
+           "id": 10,
+           "question": "What is 1/4 + 2/8?",
+           "options": ["A. 1/8", "B. 1/2", "C. 3/8", "D. 3/4"],
+           "correct": "B"
+        },
+       {
+            "id": 11,
+           "question": "A movie ticket costs $12. How much will it cost for 5 tickets?",
+           "options": ["A. $48", "B. $50", "C. $60", "D. $72"],
+            "correct": "C"
+        },
          {
-               "id": 33,
-               "question": "What is the sum of 25 + 47 + 13?",
-                "options": ["A. 75", "B. 80", "C. 85", "D. 95"],
-               "correct": "C"
-         },
-          {
-               "id": 34,
-              "question": "If a book costs $15 and you give $20, how much change do you get?",
-                "options": ["A. $3", "B. $4", "C. $5", "D. $6"],
-                "correct": "C"
-          },
-          {
-              "id": 35,
-               "question":"What is 2 to the power of 5?",
-                "options": ["A. 16", "B. 32", "C. 24", "D. 10"],
-               "correct": "B"
-          },
-          {
-               "id": 36,
-               "question": "What is 1/5 + 2/5?",
-              "options": ["A. 2/5", "B. 3/5", "C. 4/5", "D. 1/10"],
-               "correct": "B"
-          },
-          {
-              "id": 37,
-              "question":"What is the greatest common factor (GCF) of 12 and 18?",
-               "options": ["A. 2", "B. 3", "C. 6", "D. 9"],
-              "correct": "C"
-         },
-         {
-              "id": 38,
-              "question": "What is 4 x 15?",
-              "options": ["A. 50", "B. 60", "C. 70", "D. 80"],
-               "correct": "B"
-          },
-         {
-              "id": 39,
-              "question": "What is 180 / 9?",
-               "options":["A. 10", "B. 20", "C. 30", "D. 40"],
-              "correct": "B"
-          },
-          {
-             "id": 40,
-             "question": "If a circle has a diameter of 10 cm, what is its radius?",
-             "options": ["A. 20 cm", "B. 5 cm", "C. 10 cm", "D. 15 cm"],
+            "id": 12,
+           "question": "What is the perimeter of a rectangle with length 10 cm and width 6 cm?",
+             "options": ["A. 16 cm", "B. 32 cm", "C. 60 cm", "D. 64 cm"],
              "correct": "B"
-          },
-           {
-               "id": 41,
-               "question": "What is the result of 20 + 30 - 15?",
-              "options": ["A. 25", "B. 30", "C. 35", "D. 40"],
-              "correct": "C"
-           },
-           {
-              "id": 42,
-              "question": "What is 1/2 of 30?",
-               "options": ["A. 10", "B. 15", "C. 20", "D. 25"],
-               "correct":"B"
-          },
+       },
+       {
+           "id": 13,
+           "question": "What is 15 x 15?",
+            "options": ["A. 200", "B. 225", "C. 250", "D. 275"],
+           "correct": "B"
+       },
+        {
+            "id": 14,
+            "question": "Round 17.89 to the nearest tenth.",
+             "options": ["A. 17", "B. 17.8", "C. 17.9", "D. 18"],
+            "correct":"C"
+        },
+       {
+            "id": 15,
+            "question":"What is 3 to the power of 4?",
+             "options": ["A. 12", "B. 64", "C. 81", "D. 27"],
+            "correct":"C"
+        },
          {
-              "id": 43,
-              "question": "What is the least common multiple (LCM) of 4 and 6?",
-              "options": ["A. 8", "B. 12", "C. 18", "D. 24"],
-              "correct": "B"
-          },
-         {
-              "id": 44,
-              "question": "What is 1.5 + 2.5?",
-              "options": ["A. 3.0", "B. 3.5", "C. 4.0", "D. 4.5"],
-              "correct": "C"
-          },
-         {
-             "id": 45,
-              "question":"If you have 4 quarters, how many cents do you have?",
-              "options": ["A. 25 cents", "B. 50 cents", "C. 75 cents", "D. 100 cents"],
-              "correct": "D"
+            "id": 16,
+             "question": "What is 40% of 80?",
+             "options": ["A. 16", "B. 24", "C. 32", "D. 40"],
+            "correct":"C"
          },
-          {
-              "id": 46,
-              "question": "What is 12 x 6?",
-              "options": ["A. 60", "B. 72", "C. 84", "D. 96"],
+       {
+           "id": 17,
+           "question": "A bag contains 20 candies. If 1/4 of them are red, how many red candies are there?",
+           "options": ["A. 4", "B. 5", "C. 6", "D. 8"],
+           "correct": "B"
+        },
+        {
+            "id": 18,
+            "question": "What is the value of 150 / 6?",
+            "options": ["A. 15", "B. 20", "C. 25", "D. 30"],
+            "correct": "C"
+        },
+       {
+           "id": 19,
+           "question": "What is the least common multiple (LCM) of 6 and 8?",
+            "options": ["A. 12", "B. 16", "C. 24", "D. 48"],
+            "correct": "C"
+       },
+        {
+            "id": 20,
+            "question": "What is 1000 - 450?",
+            "options": ["A. 500", "B. 550", "C. 600", "D. 650"],
+           "correct": "B"
+        },
+       {
+            "id": 21,
+             "question": "If a shirt costs $25 and you have a 20% discount, how much will you pay?",
+             "options": ["A. $5", "B. $20", "C. $15", "D. $22.50"],
              "correct": "B"
+        },
+        {
+           "id": 22,
+            "question": "What is the greatest common factor (GCF) of 18 and 24?",
+             "options": ["A. 3", "B. 4", "C. 6", "D. 8"],
+            "correct": "C"
          },
-          {
-              "id": 47,
-              "question":"What is 3/8 + 1/8?",
-               "options": ["A. 1/2", "B. 3/4", "C. 4/16", "D. 1/4"],
-              "correct":"A"
-          },
-          {
-             "id": 48,
-             "question": "What is 250 / 5?",
-              "options": ["A. 25", "B. 50", "C. 75", "D. 100"],
-             "correct": "B"
-         },
+        {
+            "id": 23,
+           "question":"What is 12.5 + 7.5?",
+            "options": ["A. 19", "B. 20", "C. 20.5", "D. 21"],
+            "correct":"B"
+       },
+       {
+            "id": 24,
+            "question": "What is 5/6 - 1/3?",
+            "options": ["A. 1/6", "B. 1/2", "C. 2/3", "D. 1/3"],
+            "correct": "B"
+        },
+      {
+           "id": 25,
+           "question": "If a rectangle has an area of 48 cm² and a width of 6 cm, what is its length?",
+            "options": ["A. 7 cm", "B. 8 cm", "C. 9 cm", "D. 10 cm"],
+             "correct":"B"
+      },
+       {
+           "id": 26,
+           "question": "What is the value of 5 squared + 3 cubed?",
+            "options": ["A. 32", "B. 45", "C. 52", "D. 62"],
+           "correct":"C"
+      },
+        {
+            "id": 27,
+           "question": "Convert 4 liters to milliliters.",
+            "options": ["A. 40 ml", "B. 400 ml", "C. 4000 ml", "D. 0.4 ml"],
+             "correct": "C"
+        },
+       {
+           "id": 28,
+           "question":"Solve: 8 x 6 / 4",
+            "options": ["A. 10", "B. 12", "C. 14", "D. 16"],
+            "correct": "B"
+        },
+       {
+            "id": 29,
+             "question": "What is the average of 10, 15, and 20?",
+             "options": ["A. 10", "B. 15", "C. 20", "D. 25"],
+            "correct": "B"
+        },
          {
-              "id": 49,
-             "question":"What is 4 squared?",
-              "options": ["A. 8", "B. 16", "C. 20", "D. 12"],
-              "correct":"B"
-          },
-          {
-              "id": 50,
-              "question": "What is 1000 - 350?",
-               "options": ["A. 600", "B. 650", "C. 700", "D. 750"],
-               "correct": "B"
-           }
-      ],
+            "id": 30,
+             "question": "What is 1/5 of 75?",
+            "options": ["A. 10", "B. 15", "C. 20", "D. 25"],
+           "correct": "B"
+        },
+      {
+            "id": 31,
+            "question": "A clock shows 3:45. What is the angle between the hour and minute hand?",
+             "options": ["A. 180", "B. 90", "C. 120", "D. 150"],
+             "correct":"D"
+       },
+        {
+             "id": 32,
+             "question": "What is 7 x 8 + 10 - 5?",
+            "options": ["A. 56", "B. 61", "C. 71", "D. 75"],
+            "correct": "B"
+        },
+        {
+             "id": 33,
+             "question": "If you have 30 dollars and spend 1/3 of it, how much money is left?",
+             "options": ["A. $10", "B. $15", "C. $20", "D. $25"],
+             "correct": "C"
+       },
+       {
+            "id": 34,
+           "question":"What is 0.75 as a fraction?",
+            "options": ["A. 1/4", "B. 1/2", "C. 3/4", "D. 2/3"],
+            "correct": "C"
+       },
+        {
+            "id": 35,
+            "question": "What is 2.5 x 4?",
+            "options": ["A. 8", "B. 10", "C. 12", "D. 14"],
+            "correct": "B"
+        },
+       {
+            "id": 36,
+            "question": "What is 11 x 11 - 20",
+            "options": ["A. 101", "B. 111", "C. 121", "D. 100"],
+            "correct":"A"
+        },
+         {
+            "id": 37,
+            "question": "A recipe calls for 2 cups of flour. If you want to make half the recipe, how much flour do you need?",
+            "options": ["A. 1/2 cup", "B. 1 cup", "C. 1 1/2 cups", "D. 2 cups"],
+             "correct": "B"
+        },
+        {
+           "id": 38,
+            "question": "What is 3/4 of 100",
+            "options": ["A. 25", "B. 50", "C. 75", "D. 100"],
+            "correct":"C"
+        },
+        {
+            "id": 39,
+           "question":"What is the area of a triangle with a base of 8 cm and a height of 5 cm?",
+            "options": ["A. 20 cm²", "B. 40 cm²", "C. 13 cm²", "D. 25 cm²"],
+            "correct": "A"
+        },
+        {
+            "id": 40,
+           "question": "What is the next number in the sequence 1, 4, 9, 16, ___?",
+           "options": ["A. 20", "B. 25", "C. 28", "D. 30"],
+            "correct":"B"
+        },
+       {
+            "id": 41,
+            "question": "What is 1.25 + 3.75?",
+            "options": ["A. 4", "B. 4.5", "C. 5", "D. 5.25"],
+            "correct": "C"
+       },
+        {
+            "id": 42,
+           "question": "If a pizza costs $18 and you want to give a 10% tip, how much will you pay in total?",
+             "options": ["A. $19.80", "B. $18.80", "C. $20", "D. $19"],
+             "correct": "A"
+       },
+       {
+            "id": 43,
+            "question": "What is 300 / 15?",
+            "options": ["A. 15", "B. 20", "C. 25", "D. 30"],
+            "correct": "B"
+        },
+       {
+            "id": 44,
+           "question": "What is 12 squared?",
+           "options": ["A. 120", "B. 144", "C. 169", "D. 100"],
+            "correct":"B"
+        },
+        {
+           "id": 45,
+            "question":"What is 20% of 150?",
+            "options": ["A. 15", "B. 20", "C. 30", "D. 45"],
+            "correct":"C"
+        },
+       {
+            "id": 46,
+            "question": "What is 75 / 5?",
+             "options": ["A. 10", "B. 15", "C. 20", "D. 25"],
+            "correct": "B"
+        },
+        {
+            "id": 47,
+             "question": "A bus travels at 60 km per hour, how long does it take to travel 180 km?",
+            "options": ["A. 2 hours", "B. 3 hours", "C. 4 hours", "D. 5 hours"],
+            "correct": "B"
+       },
+       {
+            "id": 48,
+           "question": "What is 200 - 78?",
+            "options": ["A. 112", "B. 122", "C. 132", "D. 142"],
+            "correct":"B"
+        },
+        {
+            "id": 49,
+            "question": "What is 3 x 3 + 4 x 4?",
+            "options": ["A. 25", "B. 28", "C. 30", "D. 35"],
+             "correct":"A"
+        },
+        {
+            "id": 50,
+            "question": "What is 2/3 as a decimal rounded to 2 decimal places?",
+            "options": ["A. 0.60", "B. 0.66", "C. 0.67", "D. 0.70"],
+            "correct": "C"
+        }
+    ],
       "worldQuestions": [
         {
           "id": 1,
